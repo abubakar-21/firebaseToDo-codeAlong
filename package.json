@@ -1,6 +1,5 @@
 {
   "name": "react-todo",
-  "homepage": "https://github.com/chascacademy-oliver-sandstrom/firebasetodo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
